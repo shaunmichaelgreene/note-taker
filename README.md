@@ -1,7 +1,6 @@
 
   # Welcome to the README for Shaun's Note Taker  [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
   [Live Deployed Link - Heroku](https://shauns-note-taker.herokuapp.com/)  
-  [Live Deployed Link - Github](https://shaunmichaelgreene.github.io/note-taker/)  
   [GitHub Repository](https://github.com/shaunmichaelgreene/note-taker)
   ![screenshot of Shaun's Note Taker](https://i.imgur.com/hwROIWb.png)
 
